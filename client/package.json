@@ -2,6 +2,7 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
+    "install": "npm install -D webpack-cli",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
